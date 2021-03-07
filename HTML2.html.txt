@@ -1,0 +1,28 @@
+<!DOCTYPE HTML>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <HTML>HTML2</title>
+    <link rel="stylesheet" href="HTML2-CSS">　
+  </head>
+
+  <body>
+    <h1>サービス紹介</h1>
+    <h2 class="first">webcamp</h2>
+      <p>マンツーマンによる学習で、確実にwebスキルを習得できるプログラミングスクールです。</p>
+      <a rel="">webサイト</a>
+    
+    <h3 class="first">webcamp pro</h3>
+      <p>未経験から転職を保証する日本で唯一のプログラミングスクールです。</p>
+      <a rel="">webサイト</a>
+    
+    <h4 class="first">webcamp woman</h4>
+      <p>家庭も仕事も頑張りたい主婦向けの、1カ月でwebサイトを制作するwebデザインスクールです。</p>
+      <a rel="">webサイト</a>
+    
+    <h5 class="first">webcamp career</h5>
+      <p>3000名のエンジニアをサポートしてきたエージェントがあなたの転職をサポート。</p>
+      <a rel="">webサイト</a>
+    
+  </body>
+</html>
